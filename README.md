@@ -8,7 +8,7 @@
 #### I am a 4th-year student at Bicol University Polangui Campus
 
 - 🌱 I’m currently learning Vue JS and Quasar Framework 
-- ⚡ Fun fact: I love to play to earn online games like Mir4 😄 
+- ⚡ Fun fact: I love to play to earn online games
 
 
 
